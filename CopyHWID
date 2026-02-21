@@ -9,6 +9,6 @@ if game:GetService("RbxAnalyticsService") then
 	StarterGui:SetCore("SendNotification", {
     Title = "HWID copied!",
     Text = "HWID got copied to your clipboard. Your HWID:\n" ..clientId,
-    Duration = 5 -- Sekunden
+    Duration = 5
 	})
 end
