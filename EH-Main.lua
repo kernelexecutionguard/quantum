@@ -6,7 +6,8 @@ if game:GetService("RbxAnalyticsService") then
 
 	StarterGui:SetCore("SendNotification", {
     Title = "We got new Loadstrings!",
-      Text = "New Autorob Loadstring got copied to your clipboard\ndiscord.gg/eldarx",
+      Text = "New Main Loadstring got copied to your clipboard\ndiscord.gg/eldarx",
     Duration = 5
 	})
 end
+
